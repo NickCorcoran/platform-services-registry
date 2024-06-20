@@ -7,6 +7,8 @@ The Platform Services' Project Registry is a single entry point for the Platform
 * Request their project namespace set be created additional clusters;
 * Request other resources be provisioned such as KeyCloak realms or Artifactory pull-through repositories.
 
+* Test change to PR
+
 ## TL;DR
 
 This repo contains all the components for the Platform Service Registry as well as all the OpenShift 4.x manifests to build and deploy said project. You can find more about each component here:
