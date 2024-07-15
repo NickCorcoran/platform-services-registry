@@ -2,7 +2,7 @@ provider "aws" {
   region = "us-west-2"  # Specify the AWS region
 }
 
-resource "aws_s3_bucket" "public_bucket" {
+resource "aws_s3_bucket" "public_bucket2" {
   bucket = "my-public-bucket"  # Replace with your unique bucket name
   acl    = "public-read"
 
